@@ -7,8 +7,13 @@ ________________________________________________
  Current projects
  -----------------
  ctOS (On Hold)
+ -
  MySpace98 (Still developing)
+ -
  Broogles Search Engine (Finished)
+ -
  Broogles Pages (On Hold)
+ -
  sb2.js (Migrating to a new website)
+ -
  DuckyNES (Still developing)
